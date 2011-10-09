@@ -1,0 +1,5 @@
+This is a Google AppEngine app designed to parse the content of an ICS file and send it back to the sender.  This was designed prior to any ability to deal with file level attachments in iOS (pre 3.2.)  The code is currently still live at icsparse.appspot.com if it's of use to you.
+
+The code is Apache licensed and makes use of the very slick Python vobject library.
+
+
